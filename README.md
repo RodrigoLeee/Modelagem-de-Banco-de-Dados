@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proposta de um modelo de banco de dados para o projeto em grupo com a Parceiros Voltuntários. Base de dados relacional construída utilizando o "SQL Designer"(https://github.com/ondras/wwwsqldesigner).
 
 ## Objetivo
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construir uma proposta para um modelo de banco de dados relacional, para um MVP (Minimum Viable Product), de uma plataforma VTM que armazena dados de usuários e postagens. Também que permite filtrar e pesquisar por publicações e/ou ações no feed. Por fim, possui a funcionalidade de amizades/conexões na plataforma que permite que o usuário seja mostrado posts em seu feed de pessoas com que é amigo/conectado. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construir uma proposta para um modelo de banco de dados relacional, para um MVP (Minimum Viable Product), de uma plataforma VTM que armazena dados de usuários e postagens. Também permite filtrar e pesquisar por "publicações em geral" ou "ações" no feed. Por fim, possui a funcionalidade de "amizades/conexões" na plataforma que permite que o usuário seja mostrado posts em seu feed de pessoas com que é "amigo/conectado". 
 
 ## Diagrama
 ### Descrição Tabelas
