@@ -33,9 +33,9 @@ users : type_users (1:1)
 <br>
 connections : news_feed_connections (1:N)
 <br>
-feed_and_community : news_feed_connections (1:1)
+feed_and_community : news_feed_connections (1:N)
 <br>
-feed_and_community : news_feed_actions (1:1)
+feed_and_community : news_feed_actions (1:N)
 <br>
 feed_and_community : type_posts (1:1)
 <br>
