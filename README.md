@@ -7,7 +7,7 @@
 
 ## Diagrama
 ### Descrição Tabelas
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tabela que possui descrições sobre as funcionalidades das tabelas do o banco de dados relacional
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tabela que possui descrições sobre as funcionalidades das tabelas do banco de dados relacional
 <div align="center">
 <sub>Tabela 22 - Tabela de bancos de dados </sub>
 </div>
