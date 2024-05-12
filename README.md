@@ -5,7 +5,7 @@
 ## Objetivo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construir uma proposta para um modelo de banco de dados relacional, para um MVP (Minimum Viable Product), de uma plataforma VTM que armazena dados de usuários e postagens. Também permite filtrar e pesquisar por "publicações em geral" ou "ações" no feed. Além disso, a plataforma possui a funcionalidade de "amizades/conexões", que permite que o usuário veja postagens no seu feed de pessoas que estão conectadas como amigos. 
 
-## Diagrama
+## Banco de Dados
 ### Descrição Tabelas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tabela que possui descrições sobre as funcionalidades das tabelas do banco de dados relacional
 <div align="center">
