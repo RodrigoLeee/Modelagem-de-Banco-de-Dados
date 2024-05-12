@@ -46,7 +46,7 @@ news_feed_actions : actions (1:1)
 
 
 ### Diagrama 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagrama do banco de dados no SQL Designer.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagrama do banco de dados no "SQL Designer".
 <div align="center" width="100%">
 <img src = "assets/DiagramaBase.png " alt="Diagrama da Base de Dados">
 <sup>Figura 1: Diagrama da Base de Dados, Fonte: Material produzido pelos autores (2024)</sup>
