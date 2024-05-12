@@ -9,12 +9,12 @@
 
 ## Diagrama
 ### Descrição Tabelas
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qsdasdasdasdasdasdasfsegsdfsadfasda
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tabela que possui descrições sobre as funcionalidades das tabelas do o banco de dados relacional
 <div align="center">
 <sub>Tabela 22 - Tabela de bancos de dados </sub>
 </div>
 
-| tabela                        | descrição                                                                                                                                                                                                                                                                   |
+| Tabela                        | Descrição                                                                                                                                                                                                                                                                   |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | users                         | Essa tabela armazena os dados sobre os usuários. Inclui informações como nome, email, senha, cidade, estado, imagem de perfil, descrição do perfil e tipo de usuário. Cada registro nesta tabela representa um usuário individual. |
 | type_users                    | Essa tabela define o tipo de usuário. Possibilidades incluem: Voluntário e Organização Não Governamental (ONG). Cada registro nesta tabela identifica o tipo de usuário ao qual um determinado id da tabela "users" pertence.      |
