@@ -9,7 +9,6 @@
 ### Descrição Tabelas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tabela que possui descrições sobre as funcionalidades das tabelas do banco de dados relacional
 <div align="center">
-<sub>Tabela 22 - Tabela de bancos de dados </sub>
 </div>
 
 | Tabela                        | Descrição                                                                                                                                                                                                                                                                   |
@@ -23,7 +22,7 @@
 | connections            | Guarda as 'conexões' que o 'user' possui com outros usuários. Uma forma de amizade na plataforma.|
 | news_feed_connections             | Especifica posts feitos por outros usuário que o 'user' possui amizade, permitindo que seja mostrado posts feitos por 'conexões' na plataforma.|
 <div align="center">
-<sup>Fonte: Material produzido pelos autores (2024)</sup>
+<sup>Tabela de bancos de dados, Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
 ### Conexões
