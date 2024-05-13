@@ -13,7 +13,7 @@
 
 | Tabela                        | Descrição                                                                                                                                                                                                                                                                   |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| users                         | Essa tabela armazena os dados sobre os usuários. Inclui informações como nome, email, senha, cidade, estado, imagem de perfil, descrição do perfil e tipo de usuário. Cada registro nesta tabela representa um usuário individual. |
+| users                         | Essa tabela armazena os dados sobre os usuários. Inclui informações como nome, email, senha, cidade, estado, imagem de perfil, descrição do perfil, e tipo de usuário. Cada registro nesta tabela representa um usuário individual. |
 | type_users                    | Essa tabela define o tipo de usuário. Possibilidades incluem: Voluntário e Organização Não Governamental (ONG). Cada registro nesta tabela identifica o tipo de usuário ao qual um determinado id da tabela "users" pertence.      |
 | feed_and_community            | Tabela que guarda posts e seus respectivos dados. Informações como: conteúdo da postagem, data, imagem, e titulo do post.   |
 | type_posts                    | Especifica se posts da tabela "feed_and_community" são publicações gerais ou de ações sociais/voluntárias.      |
