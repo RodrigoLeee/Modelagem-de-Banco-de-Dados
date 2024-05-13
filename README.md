@@ -26,7 +26,7 @@
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
-### Sobre Conexões
+### Conexões
 users : feed_and_community (1:N)
 <br>
 users : connections (1:N)
