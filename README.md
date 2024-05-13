@@ -15,9 +15,9 @@
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | users                         | Essa tabela armazena os dados sobre os usuários. Inclui informações como nome, email, senha, cidade, estado, imagem de perfil, descrição do perfil e tipo de usuário. Cada registro nesta tabela representa um usuário individual. |
 | type_users                    | Essa tabela define o tipo de usuário. Possibilidades incluem: Voluntário e Organização Não Governamental (ONG). Cada registro nesta tabela identifica o tipo de usuário ao qual um determinado id da tabela "users" pertence.      |
-| actions                       | Lista de tipos de ações voluntárias disponíveis na plataforma. Cada registro representa um tipo de atividade específica que os usuários podem ter interesse em realizar. |
 | feed_and_community            | Tabela que guarda posts e seus respectivos dados. Informações como: conteúdo da postagem, data, imagem, e titulo do post.   |
 | type_posts                    | Especifica se posts da tabela "feed_and_community" são publicações gerais ou de ações sociais/voluntárias.      |
+| actions                       | Lista de tipos de ações voluntárias disponíveis na plataforma. Cada registro representa um tipo de atividade específica que os usuários podem ter interesse em realizar. |
 | news_feed_actions             | Especifica o que são posts de ações sociais/voluntárias da tabela "feed_and_community". Permite a filtração entre posts gerais ou de ações. |
 | connections            | Guarda as 'conexões' que o 'user' possui com outros usuários. Uma forma de amizade na plataforma.|
 | news_feed_connections             | Especifica posts feitos por outros usuário que o 'user' possui amizade, permitindo que seja mostrado posts feitos por 'conexões' na plataforma.|
